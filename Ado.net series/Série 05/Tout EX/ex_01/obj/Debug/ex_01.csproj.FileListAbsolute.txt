@@ -1,0 +1,99 @@
+C:\Users\Walid\source\repos\ex_01\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\source\repos\ex_01\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\source\repos\ex_01\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.pdb
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\source\repos\ex_01\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.Ajouter.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.EX4.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.LOG.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.csproj.CopyComplete
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\ex_01\ex_01\obj\Debug\ex_01.PSW.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\Desktop\ex_01\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\Desktop\ex_01\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.Ajouter.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.EX4.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.LOG.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.PSW.resources
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.csproj.CopyComplete
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\Desktop\ex_01\ex_01\obj\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Ajouter.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX4.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.LOG.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.PSW.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CopyComplete
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Ajouter.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX4.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.LOG.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.PSW.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CopyComplete
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe.config
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\bin\Debug\ex_01.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX1.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX2.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Ajouter.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.EX4.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.LOG.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Main.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.PSW.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.csproj.CopyComplete
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 05\Tout EX\ex_01\obj\Debug\ex_01.pdb

@@ -1,0 +1,50 @@
+C:\Users\Walid\source\repos\testSQL\testSQL\bin\Debug\testSQL.exe.config
+C:\Users\Walid\source\repos\testSQL\testSQL\bin\Debug\testSQL.exe
+C:\Users\Walid\source\repos\testSQL\testSQL\bin\Debug\testSQL.pdb
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.Form1.resources
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.Properties.Resources.resources
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.csproj.GenerateResource.cache
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.exe
+C:\Users\Walid\source\repos\testSQL\testSQL\obj\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\testSQL\testSQL\bin\Debug\testSQL.exe.config
+C:\Users\Walid\Desktop\testSQL\testSQL\bin\Debug\testSQL.exe
+C:\Users\Walid\Desktop\testSQL\testSQL\bin\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.Form1.resources
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.Properties.Resources.resources
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.exe
+C:\Users\Walid\Desktop\testSQL\testSQL\obj\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\bin\Debug\testSQL.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\bin\Debug\testSQL.exe
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\bin\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.Form1.resources
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.Properties.Resources.resources
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.exe
+C:\Users\Walid\Desktop\Cours de développeur\Language C#\Exercice language C#\POO\Standar\testSQL\testSQL\obj\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.Form1.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.Properties.Resources.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.exe.config
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\bin\Debug\testSQL.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.Form1.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.Properties.Resources.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Standart\testSQL\testSQL\obj\Debug\testSQL.pdb

@@ -1,0 +1,40 @@
+C:\Users\Walid\source\repos\ex-01\ex-01\bin\Debug\ex-01.exe.config
+C:\Users\Walid\source\repos\ex-01\ex-01\bin\Debug\ex-01.exe
+C:\Users\Walid\source\repos\ex-01\ex-01\bin\Debug\ex-01.pdb
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex-01.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex_01.Form1.resources
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex-01.csproj.GenerateResource.cache
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex-01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex-01.exe
+C:\Users\Walid\source\repos\ex-01\ex-01\obj\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Form1.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe.config
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Form1.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe.config
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\bin\Debug\ex-01.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Form1.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex_01.Properties.Resources.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 04\ex-01\ex-01\obj\Debug\ex-01.pdb

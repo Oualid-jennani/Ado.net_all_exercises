@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="prdComdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="client">
+    <Key>
+      <PropertyRef Name="numC" />
+    </Key>
+    <Property Name="numC" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="varchar" MaxLength="30" />
+    <Property Name="prenom" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="commande">
+    <Key>
+      <PropertyRef Name="numCom" />
+    </Key>
+    <Property Name="numCom" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="dateCom" Type="date" />
+    <Property Name="numC" Type="smallint" />
+  </EntityType>
+  <EntityType Name="ligneCommande">
+    <Key>
+      <PropertyRef Name="numCom" />
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numCom" Type="smallint" Nullable="false" />
+    <Property Name="numP" Type="smallint" Nullable="false" />
+    <Property Name="qt" Type="smallint" />
+  </EntityType>
+  <EntityType Name="produit">
+    <Key>
+      <PropertyRef Name="numP" />
+    </Key>
+    <Property Name="numP" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="libelle" Type="varchar" MaxLength="30" />
+    <Property Name="pu" Type="smallmoney" />
+  </EntityType>
+  <Association Name="FK__commande__numC__5070F446">
+    <End Role="client" Type="Self.client" Multiplicity="0..1" />
+    <End Role="commande" Type="Self.commande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="client">
+        <PropertyRef Name="numC" />
+      </Principal>
+      <Dependent Role="commande">
+        <PropertyRef Name="numC" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ligneComm__numCo__5165187F">
+    <End Role="commande" Type="Self.commande" Multiplicity="1" />
+    <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="commande">
+        <PropertyRef Name="numCom" />
+      </Principal>
+      <Dependent Role="ligneCommande">
+        <PropertyRef Name="numCom" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ligneComma__numP__52593CB8">
+    <End Role="produit" Type="Self.produit" Multiplicity="1" />
+    <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="produit">
+        <PropertyRef Name="numP" />
+      </Principal>
+      <Dependent Role="ligneCommande">
+        <PropertyRef Name="numP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="prdComdbModelStoreContainer">
+    <EntitySet Name="client" EntityType="Self.client" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="commande" EntityType="Self.commande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ligneCommande" EntityType="Self.ligneCommande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="produit" EntityType="Self.produit" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__commande__numC__5070F446" Association="Self.FK__commande__numC__5070F446">
+      <End Role="client" EntitySet="client" />
+      <End Role="commande" EntitySet="commande" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ligneComm__numCo__5165187F" Association="Self.FK__ligneComm__numCo__5165187F">
+      <End Role="commande" EntitySet="commande" />
+      <End Role="ligneCommande" EntitySet="ligneCommande" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ligneComma__numP__52593CB8" Association="Self.FK__ligneComma__numP__52593CB8">
+      <End Role="produit" EntitySet="produit" />
+      <End Role="ligneCommande" EntitySet="ligneCommande" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

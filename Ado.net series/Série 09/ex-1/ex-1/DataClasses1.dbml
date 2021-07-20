@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="prdComdb" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-4TIUIM2\SQLEXPRESS;Initial Catalog=prdComdb;Integrated Security=True" SettingsObjectName="ex_1.Properties.Settings" SettingsPropertyName="prdComdbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.client" Member="client">
+    <Type Name="client">
+      <Column Name="numC" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nom" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="prenom" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="client_commande" Member="commande" ThisKey="numC" OtherKey="numC" Type="commande" />
+    </Type>
+  </Table>
+  <Table Name="dbo.commande" Member="commande">
+    <Type Name="commande">
+      <Column Name="numCom" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="dateCom" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="numC" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Association Name="commande_ligneCommande" Member="ligneCommande" ThisKey="numCom" OtherKey="numCom" Type="ligneCommande" />
+      <Association Name="client_commande" Member="client" ThisKey="numC" OtherKey="numC" Type="client" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ligneCommande" Member="ligneCommande">
+    <Type Name="ligneCommande">
+      <Column Name="numCom" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="numP" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="qt" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Association Name="commande_ligneCommande" Member="commande" ThisKey="numCom" OtherKey="numCom" Type="commande" IsForeignKey="true" />
+      <Association Name="produit_ligneCommande" Member="produit" ThisKey="numP" OtherKey="numP" Type="produit" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.produit" Member="produit">
+    <Type Name="produit">
+      <Column Name="numP" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="libelle" Type="System.String" DbType="VarChar(30)" CanBeNull="true" />
+      <Column Name="pu" Type="System.Decimal" DbType="SmallMoney" CanBeNull="true" />
+      <Association Name="produit_ligneCommande" Member="ligneCommande" ThisKey="numP" OtherKey="numP" Type="ligneCommande" />
+    </Type>
+  </Table>
+</Database>

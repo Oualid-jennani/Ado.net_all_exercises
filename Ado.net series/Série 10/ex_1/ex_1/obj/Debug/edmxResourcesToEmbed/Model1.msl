@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="prdComdbModelStoreContainer" CdmEntityContainer="prdComdbEntities">
+    <EntitySetMapping Name="client">
+      <EntityTypeMapping TypeName="prdComdbModel.client">
+        <MappingFragment StoreEntitySet="client">
+          <ScalarProperty Name="numC" ColumnName="numC" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="commande">
+      <EntityTypeMapping TypeName="prdComdbModel.commande">
+        <MappingFragment StoreEntitySet="commande">
+          <ScalarProperty Name="numCom" ColumnName="numCom" />
+          <ScalarProperty Name="dateCom" ColumnName="dateCom" />
+          <ScalarProperty Name="numC" ColumnName="numC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ligneCommande">
+      <EntityTypeMapping TypeName="prdComdbModel.ligneCommande">
+        <MappingFragment StoreEntitySet="ligneCommande">
+          <ScalarProperty Name="numCom" ColumnName="numCom" />
+          <ScalarProperty Name="numP" ColumnName="numP" />
+          <ScalarProperty Name="qt" ColumnName="qt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="produit">
+      <EntityTypeMapping TypeName="prdComdbModel.produit">
+        <MappingFragment StoreEntitySet="produit">
+          <ScalarProperty Name="numP" ColumnName="numP" />
+          <ScalarProperty Name="libelle" ColumnName="libelle" />
+          <ScalarProperty Name="pu" ColumnName="pu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

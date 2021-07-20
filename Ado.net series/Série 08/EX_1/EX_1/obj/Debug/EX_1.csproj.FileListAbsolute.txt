@@ -1,0 +1,28 @@
+C:\Users\Walid\source\repos\EX_1\EX_1\bin\Debug\EX_1.exe.config
+C:\Users\Walid\source\repos\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Walid\source\repos\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Walid\source\repos\EX_1\EX_1\obj\Debug\EX_1.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\EX_1\EX_1\obj\Debug\EX_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\EX_1\EX_1\obj\Debug\EX_1.exe
+C:\Users\Walid\source\repos\EX_1\EX_1\obj\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe.config
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe.config
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.exe
+C:\Users\Walid\Desktop\Cours de développeur\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe.config
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\bin\Debug\EX_1.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 08\EX_1\EX_1\obj\Debug\EX_1.pdb

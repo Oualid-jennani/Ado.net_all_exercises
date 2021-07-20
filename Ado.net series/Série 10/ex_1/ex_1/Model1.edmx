@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="prdComdbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="client">
+          <Key>
+            <PropertyRef Name="numC" />
+          </Key>
+          <Property Name="numC" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="nom" Type="varchar" MaxLength="30" />
+          <Property Name="prenom" Type="varchar" MaxLength="30" />
+          <Property Name="email" Type="varchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="commande">
+          <Key>
+            <PropertyRef Name="numCom" />
+          </Key>
+          <Property Name="numCom" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="dateCom" Type="date" />
+          <Property Name="numC" Type="smallint" />
+        </EntityType>
+        <EntityType Name="ligneCommande">
+          <Key>
+            <PropertyRef Name="numCom" />
+            <PropertyRef Name="numP" />
+          </Key>
+          <Property Name="numCom" Type="smallint" Nullable="false" />
+          <Property Name="numP" Type="smallint" Nullable="false" />
+          <Property Name="qt" Type="smallint" />
+        </EntityType>
+        <EntityType Name="produit">
+          <Key>
+            <PropertyRef Name="numP" />
+          </Key>
+          <Property Name="numP" Type="smallint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="libelle" Type="varchar" MaxLength="30" />
+          <Property Name="pu" Type="smallmoney" />
+        </EntityType>
+        <!--Erreurs détectées durant la génération :
+avertissement 6002: La table/vue 'prdComdb.dbo.users' n'a pas de clé primaire définie. La clé a été déduite et la définition a été créée en tant que table/vue en lecture seule.-->
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="login" />
+          </Key>
+          <Property Name="login" Type="nchar" MaxLength="255" Nullable="false" />
+          <Property Name="password" Type="nchar" MaxLength="255" />
+        </EntityType>
+        <Association Name="FK__commande__numC__5070F446">
+          <End Role="client" Type="Self.client" Multiplicity="0..1" />
+          <End Role="commande" Type="Self.commande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="client">
+              <PropertyRef Name="numC" />
+            </Principal>
+            <Dependent Role="commande">
+              <PropertyRef Name="numC" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ligneComm__numCo__5165187F">
+          <End Role="commande" Type="Self.commande" Multiplicity="1" />
+          <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="commande">
+              <PropertyRef Name="numCom" />
+            </Principal>
+            <Dependent Role="ligneCommande">
+              <PropertyRef Name="numCom" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ligneComma__numP__52593CB8">
+          <End Role="produit" Type="Self.produit" Multiplicity="1" />
+          <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="produit">
+              <PropertyRef Name="numP" />
+            </Principal>
+            <Dependent Role="ligneCommande">
+              <PropertyRef Name="numP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="prdComdbModelStoreContainer">
+          <EntitySet Name="client" EntityType="Self.client" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="commande" EntityType="Self.commande" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ligneCommande" EntityType="Self.ligneCommande" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="produit" EntityType="Self.produit" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="users" EntityType="Self.users" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [users].[login] AS [login], 
+    [users].[password] AS [password]
+    FROM [dbo].[users] AS [users]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK__commande__numC__5070F446" Association="Self.FK__commande__numC__5070F446">
+            <End Role="client" EntitySet="client" />
+            <End Role="commande" EntitySet="commande" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ligneComm__numCo__5165187F" Association="Self.FK__ligneComm__numCo__5165187F">
+            <End Role="commande" EntitySet="commande" />
+            <End Role="ligneCommande" EntitySet="ligneCommande" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ligneComma__numP__52593CB8" Association="Self.FK__ligneComma__numP__52593CB8">
+            <End Role="produit" EntitySet="produit" />
+            <End Role="ligneCommande" EntitySet="ligneCommande" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="prdComdbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="client">
+          <Key>
+            <PropertyRef Name="numC" />
+          </Key>
+          <Property Name="numC" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="nom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="prenom" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="commande" Relationship="Self.FK__commande__numC__5070F446" FromRole="client" ToRole="commande" />
+        </EntityType>
+        <EntityType Name="commande">
+          <Key>
+            <PropertyRef Name="numCom" />
+          </Key>
+          <Property Name="numCom" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="dateCom" Type="DateTime" Precision="0" />
+          <Property Name="numC" Type="Int16" />
+          <NavigationProperty Name="client" Relationship="Self.FK__commande__numC__5070F446" FromRole="commande" ToRole="client" />
+          <NavigationProperty Name="ligneCommande" Relationship="Self.FK__ligneComm__numCo__5165187F" FromRole="commande" ToRole="ligneCommande" />
+        </EntityType>
+        <EntityType Name="ligneCommande">
+          <Key>
+            <PropertyRef Name="numCom" />
+            <PropertyRef Name="numP" />
+          </Key>
+          <Property Name="numCom" Type="Int16" Nullable="false" />
+          <Property Name="numP" Type="Int16" Nullable="false" />
+          <Property Name="qt" Type="Int16" />
+          <NavigationProperty Name="commande" Relationship="Self.FK__ligneComm__numCo__5165187F" FromRole="ligneCommande" ToRole="commande" />
+          <NavigationProperty Name="produit" Relationship="Self.FK__ligneComma__numP__52593CB8" FromRole="ligneCommande" ToRole="produit" />
+        </EntityType>
+        <EntityType Name="produit">
+          <Key>
+            <PropertyRef Name="numP" />
+          </Key>
+          <Property Name="numP" Type="Int16" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="libelle" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
+          <Property Name="pu" Type="Decimal" Precision="10" Scale="4" />
+          <NavigationProperty Name="ligneCommande" Relationship="Self.FK__ligneComma__numP__52593CB8" FromRole="produit" ToRole="ligneCommande" />
+        </EntityType>
+        <Association Name="FK__commande__numC__5070F446">
+          <End Role="client" Type="Self.client" Multiplicity="0..1" />
+          <End Role="commande" Type="Self.commande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="client">
+              <PropertyRef Name="numC" />
+            </Principal>
+            <Dependent Role="commande">
+              <PropertyRef Name="numC" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ligneComm__numCo__5165187F">
+          <End Role="commande" Type="Self.commande" Multiplicity="1" />
+          <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="commande">
+              <PropertyRef Name="numCom" />
+            </Principal>
+            <Dependent Role="ligneCommande">
+              <PropertyRef Name="numCom" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__ligneComma__numP__52593CB8">
+          <End Role="produit" Type="Self.produit" Multiplicity="1" />
+          <End Role="ligneCommande" Type="Self.ligneCommande" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="produit">
+              <PropertyRef Name="numP" />
+            </Principal>
+            <Dependent Role="ligneCommande">
+              <PropertyRef Name="numP" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="prdComdbEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="client" EntityType="Self.client" />
+          <EntitySet Name="commande" EntityType="Self.commande" />
+          <EntitySet Name="ligneCommande" EntityType="Self.ligneCommande" />
+          <EntitySet Name="produit" EntityType="Self.produit" />
+          <AssociationSet Name="FK__commande__numC__5070F446" Association="Self.FK__commande__numC__5070F446">
+            <End Role="client" EntitySet="client" />
+            <End Role="commande" EntitySet="commande" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ligneComm__numCo__5165187F" Association="Self.FK__ligneComm__numCo__5165187F">
+            <End Role="commande" EntitySet="commande" />
+            <End Role="ligneCommande" EntitySet="ligneCommande" />
+          </AssociationSet>
+          <AssociationSet Name="FK__ligneComma__numP__52593CB8" Association="Self.FK__ligneComma__numP__52593CB8">
+            <End Role="produit" EntitySet="produit" />
+            <End Role="ligneCommande" EntitySet="ligneCommande" />
+          </AssociationSet>
+          <EntitySet Name="users" EntityType="prdComdbModel.users" />
+        </EntityContainer>
+        <EntityType Name="users">
+          <Key>
+            <PropertyRef Name="login" />
+          </Key>
+          <Property Name="login" Type="String" Nullable="false" MaxLength="255" FixedLength="true" Unicode="true" />
+          <Property Name="password" Type="String" MaxLength="255" FixedLength="true" Unicode="true" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="prdComdbModelStoreContainer" CdmEntityContainer="prdComdbEntities">
+          <EntitySetMapping Name="client">
+            <EntityTypeMapping TypeName="prdComdbModel.client">
+              <MappingFragment StoreEntitySet="client">
+                <ScalarProperty Name="numC" ColumnName="numC" />
+                <ScalarProperty Name="nom" ColumnName="nom" />
+                <ScalarProperty Name="prenom" ColumnName="prenom" />
+                <ScalarProperty Name="email" ColumnName="email" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="commande">
+            <EntityTypeMapping TypeName="prdComdbModel.commande">
+              <MappingFragment StoreEntitySet="commande">
+                <ScalarProperty Name="numCom" ColumnName="numCom" />
+                <ScalarProperty Name="dateCom" ColumnName="dateCom" />
+                <ScalarProperty Name="numC" ColumnName="numC" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ligneCommande">
+            <EntityTypeMapping TypeName="prdComdbModel.ligneCommande">
+              <MappingFragment StoreEntitySet="ligneCommande">
+                <ScalarProperty Name="numCom" ColumnName="numCom" />
+                <ScalarProperty Name="numP" ColumnName="numP" />
+                <ScalarProperty Name="qt" ColumnName="qt" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="produit">
+            <EntityTypeMapping TypeName="prdComdbModel.produit">
+              <MappingFragment StoreEntitySet="produit">
+                <ScalarProperty Name="numP" ColumnName="numP" />
+                <ScalarProperty Name="libelle" ColumnName="libelle" />
+                <ScalarProperty Name="pu" ColumnName="pu" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="prdComdbModel.users">
+              <MappingFragment StoreEntitySet="users">
+                <ScalarProperty Name="password" ColumnName="password" />
+                <ScalarProperty Name="login" ColumnName="login" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Aucun" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

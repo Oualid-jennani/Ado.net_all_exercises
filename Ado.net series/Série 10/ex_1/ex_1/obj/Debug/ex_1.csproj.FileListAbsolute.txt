@@ -1,0 +1,54 @@
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\ex_1.exe.config
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\ex_1.exe
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\ex_1.pdb
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\EntityFramework.dll
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\EntityFramework.xml
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walid\source\repos\ex_1\ex_1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.Form1.resources
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.Properties.Resources.resources
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.csproj.GenerateResource.cache
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.csproj.CopyComplete
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.exe
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.pdb
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.ADD.resources
+C:\Users\Walid\source\repos\ex_1\ex_1\obj\Debug\ex_1.alter.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\ex_1.exe.config
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\ex_1.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\ex_1.pdb
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\EntityFramework.dll
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\EntityFramework.xml
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.ADD.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.alter.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.Form1.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.Properties.Resources.resources
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.csproj.CopyComplete
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.exe
+C:\Users\Walid\Desktop\PrP\ADO\Séries\Sérir 10\ex_1\ex_1\obj\Debug\ex_1.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\ex_1.exe.config
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\ex_1.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\ex_1.pdb
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\EntityFramework.dll
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\EntityFramework.xml
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.csprojAssemblyReference.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.ADD.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.alter.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.Form1.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.Properties.Resources.resources
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.csproj.GenerateResource.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.csproj.CopyComplete
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.exe
+C:\Users\Walid\Desktop\ADO\Séries\Série 10\ex_1\ex_1\obj\Debug\ex_1.pdb
